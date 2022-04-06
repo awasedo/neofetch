@@ -1,9 +1,0 @@
-${c1}        /\
-       /AA\
-       \AAA\
-     /ArcHAR\
-    /CHARCHAR\
-   /CHARCHARCH\
-  /ARCH/  \ARCH\
- /ARCH/    \ARC:.
-/H.'`        `'AR\\
